@@ -10,9 +10,15 @@ Thank You!!
 
 Instructions:
 
+(OPTIONAL) Apply or not the REG files in "Good Registery Tweaks" directory as you like
+
+NOTE: SAVE ALL UNSAVED PROJECTS, BECAUSE AT THE END OF THE TWEAKS PROCESS YOUR PC WILL REBOOT
+
 1- Run SETUP as Administrator
 
 2- Run RUN TWEAKS as double click
+
+3- Your PC will reboot
 
 3- wait the magic
 
