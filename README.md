@@ -12,13 +12,13 @@ Instructions:
 
 NOTE: SAVE ALL UNSAVED PROJECTS, BECAUSE AT THE END OF THE TWEAKS PROCESS YOUR PC WILL REBOOT
 
-1- Run SETUP as Administrator
+1- Run SETUP.bat as Administrator
 
-2- Run RUN TWEAKS as double click
+2- Run RUN TWEAKS.bat as double click
 
 3- Agree and wait ms-resource:DisplayName app Update
 
-4- Run RUN TWEAKS again, as double click
+4- Run RUN TWEAKS.bat again, as double click
 
 5- Your PC will reboot
 
