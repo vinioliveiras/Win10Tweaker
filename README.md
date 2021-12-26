@@ -4,7 +4,7 @@ This script remove all W10 Bloatware and set the configurations to best performa
 
 Based on https://christitus.com/debloat-windows-10-2020/ script
 
-All credits to LOGIC SCRIPS ChrisTitusTech, Thank You!!
+All LOGIC SCRIPS credits to ChrisTitusTech, Thank You!!
 
 Instructions:
 
