@@ -16,7 +16,7 @@ NOTE: SAVE ALL UNSAVED PROJECTS, BECAUSE AT THE END OF THE TWEAKS PROCESS YOUR P
 
 2- Run RUN TWEAKS as double click
 
-3- Wait and agree ms-resource:DisplayName app Update
+3- Agree and wait ms-resource:DisplayName app Update
 
 4- Your PC will reboot
 
